@@ -45,7 +45,7 @@ To use `svg-logos`, follow these steps:
 You can customize the SVG icons by modifying the SVG markup within the `addSvg()` function in the `svg.js` file.
 
 ```javascript
-var svg = `<svg width="50" height="50" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg"></svg>`;
+var svg = `<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"></svg>`;
 ```
 
 You can adjust attributes like `width`, `height`, `viewBox`, `fill`, and other attributes to customize the appearance of the SVG icons.
@@ -77,7 +77,7 @@ Here's an example of how to use `svg-logos` in an HTML file:
 
 ## Contributing
 
-Contributions to `svg-logos` are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository: [svg-logos GitHub Repository](https://github.com/example/svg-logos).
+Contributions to `svg-logos` are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository: [svg-logos GitHub Repository](https://github.com/Harshrb2424/svg-logos).
 
 ## License
 

@@ -46,5 +46,65 @@ function addSvg() {
   elements.forEach(element => {
     element.innerHTML = svg;
   });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-pinterest');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-reddit');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-snapchat');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-spotify');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-telegram');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-tiktok');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-twitch');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-vine');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-vk');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
+
+  var svg = ``;
+  elements = document.querySelectorAll('.svg-youtube');
+  elements.forEach(element => {
+    element.innerHTML = svg;
+  });
 }
 module.exports = addSvg;
