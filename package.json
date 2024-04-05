@@ -1,0 +1,14 @@
+{
+  "name": "svg-logos",
+  "version": "1.0.2",
+  "description": "auto show svg logos in the page",
+  "main": "svg.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Harsh RB",
+  "license": "ISC"
+}
