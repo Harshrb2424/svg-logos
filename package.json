@@ -1,6 +1,6 @@
 {
   "name": "svg-logos",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "auto show svg logos in the page",
   "main": "svg.js",
   "scripts": {
