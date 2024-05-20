@@ -4,6 +4,141 @@
 
 `svg-logos` is a lightweight npm package designed to simplify the process of adding SVG icons to your web projects. It provides a straightforward way to incorporate SVG icons into your HTML using classes, making it easy to manage and customize icons across your website or web application.
 
+## Usage
+Add it the end of the `<body>` of the HTML page.
+```
+<script src="https://harshrb2424.github.io/svg-logos/svg.js"></script>
+```
+
+<iframe src="https://harshrb2424.github.io/svg-logos/" width="100%" height="800px"></iframe>
+
+Here are all the possible svg logo syntax:
+```
+      <div class="svg-badoo"></div>
+      <div class="svg-behance"></div>
+      <div class="svg-discord"></div>
+      <div class="svg-dribble"></div>
+      <div class="svg-facebook"></div>
+      <div class="svg-groupme"></div>
+      <div class="svg-github"></div>
+      <div class="svg-google"></div>
+      <div class="svg-icq"></div>
+      <div class="svg-instagram"></div>
+      <div class="svg-linkedin"></div>
+      <div class="svg-messenger"></div>
+      <div class="svg-midjourney"></div>
+      <div class="svg-openai"></div>
+      <div class="svg-pinterest"></div>
+      <div class="svg-periscope"></div>
+      <div class="svg-reddit"></div>
+      <div class="svg-snapchat"></div>
+      <div class="svg-skype"></div>
+      <div class="svg-spotify"></div>
+      <div class="svg-soundcloud"></div>
+      <div class="svg-steam"></div>
+      <div class="svg-stumbleupon"></div>
+      <div class="svg-tandem"></div>
+      <div class="svg-teamviewer"></div>
+      <div class="svg-telegram"></div>
+      <div class="svg-tencent"></div>
+      <div class="svg-threads"></div>
+      <div class="svg-tinder"></div>
+      <div class="svg-tiktok"></div>
+      <div class="svg-trello"></div>
+      <div class="svg-tumblr"></div>
+      <div class="svg-twitch"></div>
+      <div class="svg-vine"></div>
+      <div class="svg-vk"></div>
+      <div class="svg-weibo"></div>
+      <div class="svg-whatsapp"></div>
+      <div class="svg-x"></div>
+      <div class="svg-twitter"></div>
+      <div class="svg-youtube"></div>
+      <div class="svg-zenly"></div>
+      <div class="svg-badoo-light"></div>
+      <div class="svg-behance-light"></div>
+      <div class="svg-discord-light"></div>
+      <div class="svg-dribble-light"></div>
+      <div class="svg-facebook-light"></div>
+      <div class="svg-groupme-light"></div>
+      <div class="svg-github-light"></div>
+      <div class="svg-google-light"></div>
+      <div class="svg-icq-light"></div>
+      <div class="svg-instagram-light"></div>
+      <div class="svg-linkedin-light"></div>
+      <div class="svg-messenger-light"></div>
+      <div class="svg-midjourney-light"></div>
+      <div class="svg-openai-light"></div>
+      <div class="svg-pinterest-light"></div>
+      <div class="svg-periscope-light"></div>
+      <div class="svg-reddit-light"></div>
+      <div class="svg-snapchat-light"></div>
+      <div class="svg-skype-light"></div>
+      <div class="svg-spotify-light"></div>
+      <div class="svg-soundcloud-light"></div>
+      <div class="svg-steam-light"></div>
+      <div class="svg-stumbleupon-light"></div>
+      <div class="svg-tandem-light"></div>
+      <div class="svg-teamviewer-light"></div>
+      <div class="svg-telegram-light"></div>
+      <div class="svg-tencent-light"></div>
+      <div class="svg-threads-light"></div>
+      <div class="svg-tinder-light"></div>
+      <div class="svg-tiktok-light"></div>
+      <div class="svg-trello-light"></div>
+      <div class="svg-tumblr-light"></div>
+      <div class="svg-twitch-light"></div>
+      <div class="svg-vine-light"></div>
+      <div class="svg-vk-light"></div>
+      <div class="svg-weibo-light"></div>
+      <div class="svg-whatsapp-light"></div>
+      <div class="svg-x-light"></div>
+      <div class="svg-twitter-light"></div>
+      <div class="svg-youtube-light"></div>
+      <div class="svg-zenly-light"></div>
+      <div class="svg-badoo-dark"></div>
+      <div class="svg-behance-dark"></div>
+      <div class="svg-discord-dark"></div>
+      <div class="svg-dribble-dark"></div>
+      <div class="svg-facebook-dark"></div>
+      <div class="svg-groupme-dark"></div>
+      <div class="svg-github-dark"></div>
+      <div class="svg-google-dark"></div>
+      <div class="svg-icq-dark"></div>
+      <div class="svg-instagram-dark"></div>
+      <div class="svg-linkedin-dark"></div>
+      <div class="svg-messenger-dark"></div>
+      <div class="svg-midjourney-dark"></div>
+      <div class="svg-openai-dark"></div>
+      <div class="svg-pinterest-dark"></div>
+      <div class="svg-periscope-dark"></div>
+      <div class="svg-reddit-dark"></div>
+      <div class="svg-snapchat-dark"></div>
+      <div class="svg-skype-dark"></div>
+      <div class="svg-spotify-dark"></div>
+      <div class="svg-soundcloud-dark"></div>
+      <div class="svg-steam-dark"></div>
+      <div class="svg-stumbleupon-dark"></div>
+      <div class="svg-tandem-dark"></div>
+      <div class="svg-teamviewer-dark"></div>
+      <div class="svg-telegram-dark"></div>
+      <div class="svg-tencent-dark"></div>
+      <div class="svg-threads-dark"></div>
+      <div class="svg-tinder-dark"></div>
+      <div class="svg-tiktok-dark"></div>
+      <div class="svg-trello-dark"></div>
+      <div class="svg-tumblr-dark"></div>
+      <div class="svg-twitch-dark"></div>
+      <div class="svg-vine-dark"></div>
+      <div class="svg-vk-dark"></div>
+      <div class="svg-weibo-dark"></div>
+      <div class="svg-whatsapp-dark"></div>
+      <div class="svg-x-dark"></div>
+      <div class="svg-twitter-dark"></div>
+      <div class="svg-youtube-dark"></div>
+      <div class="svg-zenly-dark"></div>
+```
+
 ## Installation
 
 You can install `svg-logos` via npm by running:
@@ -12,8 +147,8 @@ You can install `svg-logos` via npm by running:
 npm install svg-logos
 ```
 
-## Usage
 
+## Usage (alt)
 ### 1. Adding SVG Icons
 
 To use `svg-logos`, follow these steps:
